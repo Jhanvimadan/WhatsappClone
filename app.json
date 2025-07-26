@@ -15,6 +15,7 @@
     },
     
     "android": {
+      "package": "com.jhanvi.whatsappclone" ,
       "useNextNotificationsApi": true,
       "adaptiveIcon": {
         "foregroundImage": "./src/assets/images/adaptive-icon.png",
